@@ -1,0 +1,15 @@
+body {
+    background: url("bg_wsu.jpg") no-repeat center center fixed;
+    color: #6AAED9;
+}
+
+p {
+    color: #593831;
+}
+
+ul.nobullet {
+    list-style-type: none;
+    padding: 0;
+    margin: 25px;
+}
+
