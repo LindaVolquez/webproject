@@ -1,0 +1,68 @@
+/*
+  white: #FFFFFF
+  accent 1 - light blue: #6AAED9
+  accent 2 -             #593831
+*/
+
+body {
+  background-color: #FFFFFF;
+  padding: 0 24px 36px 24px;
+}
+
+div.picture { 
+  text-align: center;
+  background-color: #6AAED9;
+  /*margin: 5 10px 8px 10px;*/
+  margin-left: auto;
+  margin-right: auto;
+  color: #FFFFFF;
+  width: 646px;
+  padding: 12px;
+  border-style:groove;
+  border-width: 10px;
+  border-color: #593831;
+}
+
+a {
+    color: #6AAED9;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:hover {
+  color: #593831
+}
+
+h1, h2, h3 {
+  color: #6AAED9;
+}
+
+h1 {
+  text-align: center;
+}
+
+p.content {
+  background-color: #6AAED9;
+  margin: 5 10px 8px 16px;
+  color: #FFFFFF;
+  width: 585px;
+  padding: 24px;
+  border-style: double;
+  border-width: 4px;
+  border-color: #593831;
+}
+
+p, li, table {
+  font-size: 1.2em;
+}
+
+th, td {
+  border: #593831 solid 5px;
+  padding: 8px;
+}
+
+table {
+Border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+}
